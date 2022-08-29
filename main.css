@@ -8,6 +8,10 @@ div {
 
 }
 
+body {
+    background-color: aquamarine;
+}
+
 img {
     width: 300px;
     height: auto;
@@ -27,8 +31,9 @@ h1 {
 }
 
 #main {
-    background-color: white;
+    background-color: whitesmoke;
     padding: 50px;
+    margin: 30px;
 }
 
 button:hover {
