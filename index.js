@@ -36,7 +36,7 @@ let generalAdviceButton = document.getElementById('generaladvice') //div to be c
 let makeMeVisible = document.querySelector('.hidden')
 let shopAdviceButton = document.getElementById('wheretobuy')
 let notAmazonButton = document.getElementById('notamazon')
-
+//hello test
 
 generalAdviceButton.addEventListener("click", toggleSection1)
 shopAdviceButton.addEventListener("click", toggleSection2)
