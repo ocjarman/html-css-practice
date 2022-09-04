@@ -72,7 +72,7 @@ backgroundButton.addEventListener("click", newColor);
 
 function newColor() {
   let randomNum = Math.floor(Math.random() * 360);
-  elementToChange.style.backgroundColor = `hsl(${randomNum}, 100%, 50%)`;
+  elementToChange.style.backgroundColor = `hsl(${randomNum}, 50%, 70%)`;
 }
 
 /////////////******Karat Clicker!!!********///////////////
